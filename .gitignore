@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data & Models (too large for Git)
+datasets/
+*.pt
+*.zip
+runs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
