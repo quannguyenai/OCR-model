@@ -61,10 +61,3 @@ for r in results:
     print(f"{r['text']} ({r['confidence']:.2f})")
 ```
 
-## Results
-
-| Model | Char Acc | Word Acc | Speed | Trained by Us? |
-|-------|----------|----------|-------|----------------|
-| YOLO + CRNN (Ours) | ~85% | ~72% | Fast | Yes |
-| TrOCR | ~87% | ~76% | Slow | No (pre-trained) |
-| EasyOCR | ~82% | ~68% | Medium | No (pre-trained) |
