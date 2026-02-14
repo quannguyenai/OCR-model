@@ -34,7 +34,7 @@ jupyter notebook notebooks/
 
 ## Models Compared
 
-| Model | Trained by Us? | Description |
+| Model | Finetune | Description |
 |-------|----------------|-------------|
 | YOLO + CRNN (Ours) | Yes | Custom trained on ICDAR2003 |
 | TrOCR | No | Microsoft's pre-trained transformer OCR |
